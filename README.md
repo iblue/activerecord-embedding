@@ -73,7 +73,7 @@ test suite with `rake`. Please do not modify the `version.rb` file.
 ```
 # Remember to run the tests and to bump the version
 gem build activerecord-embedding.gemspec
-gem release activerecord-embedding-$version.gem
+gem push activerecord-embedding-$version.gem
 ```
 
 ## Credits
