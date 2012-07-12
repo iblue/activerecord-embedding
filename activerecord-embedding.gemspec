@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Markus Fenske"]
   s.email       = ["iblue@gmx.net"]
-  s.homepage    = "TODO: Homepage"
+  s.homepage    = "http://github.com/iblue/activerecord-embedding"
   s.summary     = "Adds MongoMapper embeds_many style behavior to ActiveRecord"
   s.description = "Adds MongoMapper embeds_many style behavior to ActiveRecord"
 
